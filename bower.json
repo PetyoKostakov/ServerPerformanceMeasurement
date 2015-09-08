@@ -1,0 +1,19 @@
+{
+  "name": "ServerPerformanceMeasurement",
+  "version": "0.0.0",
+  "homepage": "https://github.com/PetyoKostakov/ServerPerformanceMeasurement",
+  "authors": [
+    "Petyo Kostakov <petyo.kostakov@sap.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

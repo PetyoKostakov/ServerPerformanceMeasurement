@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>ManyFilesLowLoad</title>
+
+
+</head>
+<body>
+    <h1>Many Files Low Load Test</h1>
+    <input id="urlInput" type="text" placeholder="Enter url" value="http://localhost:3000/"/>
+    <button onclick="startLowLoadTests()">Start low load test</button>
+    <button onclick="startHighLoadTest()">Start high load test</button>
+<script src="/jquery.min.js"></script>
+<script>
+    var filesList = ["index.html", "bootstrap.css", "bootstrap-theme.css", "jquery.js", "jquery.min.js", "ManyFilesLowLoad.html"];
+    var testsCount;
+
+    // execute single test
+    function requestStaticResource() {
+        console.log("test ", testsCount);
+        filesList.forEach(function (fileName) {
+            $.ajax({
+                type: 'GET',
+                url: "/" + fileName,
+                dataType: 'text',
+                async: true,
+                cache: false
+            })
+        });
+    }
+
+    function startLowLoadTests() {
+        testsCount = 0;
+
+        var interval = setInterval(function() {
+            requestStaticResource();
+            testsCount++;
+
+            if (testsCount >= 50) {
+                clearInterval(interval);
+            }
+        }, 200);
+    }
+
+    function startHighLoadTest() {
+        testsCount = 0;
+
+        for (var i = 0; i < 100; i++) {
+            requestStaticResource();
+        }
+    }
+
+</script>
+</body>
+</html>
