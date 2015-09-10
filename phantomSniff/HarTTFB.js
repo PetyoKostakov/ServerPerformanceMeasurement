@@ -14,6 +14,7 @@ fs.readFile(harFile, 'utf8', function (err,data) {
     data.log.entries.forEach(function (entry) {
       sum += entry.timings.wait;
     });
-    console.log(sum);
+    console.log("TTFB sum:", sum);
+    console.log("TTFB AVG:", sum / data.log.entries.length );
   }
 });
