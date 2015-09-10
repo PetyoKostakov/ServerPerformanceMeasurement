@@ -18,6 +18,7 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^file/', 'testServer.views.fileRequest'),
+    url(r'^resource/', 'testServer.views.resourceRequest'),
     url(r'^admin/', include(admin.site.urls)),
 ]
 

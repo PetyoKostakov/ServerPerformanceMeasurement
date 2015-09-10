@@ -1,5 +1,6 @@
 from django.http import HttpResponse
 from django.core.files import File
+import json
 import os
 
 def fileRequest(req):
@@ -24,3 +25,29 @@ def fileRequest(req):
         return HttpResponse(dataToWrite)
 
     return HttpResponse('hello')
+
+
+def resourceRequest(req):
+    def concatBigString():
+        strArr = []
+        str = ""
+
+        for timeConcat in range(1, 20):
+            for charsConcat in range(1, 256):
+                strArr.append(unicode(chr(charsConcat), errors='replace'))
+
+            str += "".join(strArr)
+
+        return str
+
+    def generateObject():
+        tel = {}
+
+        for num in range(0, 5):
+           tel["prop" + str(num)] = {
+               "prop": concatBigString()
+           }
+
+        return tel
+
+    return HttpResponse(json.dumps(generateObject()))

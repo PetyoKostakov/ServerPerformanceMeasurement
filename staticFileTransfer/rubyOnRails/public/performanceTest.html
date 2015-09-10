@@ -9,11 +9,18 @@
 <body>
     <h1>Many Files Low Load Test</h1>
     <input id="urlInput" type="text" placeholder="Enter url" value="http://localhost:3000/"/>
+    <br/>
+    <br/>
     <button onclick="startLowLoadTests()">Start low load test</button>
     <button onclick="startHighLoadTest()">Start high load test</button>
     <br/>
+    <br/>
     <button onclick="startReadWriteHighLoadTest()">Start read/write high load test</button>
     <button onclick="startReadWriteLowLoadTest()">Start read/write low load test</button>
+    <br/>
+    <br/>
+    <button onclick="startGenerateResourceLowLoadTest()">Start read/write low load test</button>
+    <button onclick="startGenerateResourceHighLoadTest()">Start read/write high load test</button>
 <script src="/jquery.min.js"></script>
 <script>
     var filesList = ["index.html", "bootstrap.css", "bootstrap-theme.css", "jquery.js", "jquery.min.js", "performanceTest.html"];
@@ -109,6 +116,42 @@
                 clearInterval(interval);
             }
         }, 200);
+    }
+
+    // big resource -----------------------------------------------
+    function requestBigResource() {
+        $.ajax({
+            type: 'GET',
+            url: "/resource/",
+            dataType: 'json',
+            async: true,
+            cache: false,
+            success: function (data) {
+                console.log("Success Resource");
+            },
+            err: function (err){
+                console.log("err");
+            }
+        })
+    }
+
+    function startGenerateResourceLowLoadTest() {
+        testsCount = 0;
+
+        var interval = setInterval(function() {
+            requestBigResource();
+            testsCount++;
+
+            if (testsCount >= 50) {
+                clearInterval(interval);
+            }
+        }, 1000);
+    }
+
+    function startGenerateResourceHighLoadTest() {
+        for (var i = 0; i < 100; i++) {
+            requestBigResource();
+        }
     }
 
     var longString = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent blandit eget elit sit amet elementum. Nulla vel iaculis sapien. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed velit sapien, sodales vitae enim ut, fringilla viverra eros. In ex turpis, consectetur sit amet bibendum dignissim, interdum vitae turpis. Proin nec purus eu libero lobortis ultrices at a dolor. Aenean eget aliquam mi. Duis vitae ligula venenatis lectus mollis ornare. Nullam sed feugiat nulla, ac tempus arcu.\n"

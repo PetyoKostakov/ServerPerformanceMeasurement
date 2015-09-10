@@ -2,226 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eafe2427-0e1c-4772-bad1-32b3e279a355" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/123.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file10.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file12.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file14.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file16.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file18.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/node/temp/file2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file2.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file20.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file22.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file24.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file26.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file28.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file30.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file32.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file34.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file36.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file38.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file4.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file40.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file42.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file44.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file46.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file48.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file6.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file8.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/undefined" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/undefined" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write1.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write11.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write13.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write15.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write17.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write19.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write21.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write23.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write25.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write27.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write29.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write3.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write31.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write33.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write35.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write37.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write39.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write41.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write43.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write45.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write47.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write49.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write5.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write51.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write53.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write55.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write57.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write59.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write61.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write63.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write65.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write67.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write69.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write7.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write71.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write73.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write75.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write77.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write79.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write81.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write83.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write85.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write87.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write89.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write89.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write9.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write91.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write91.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write93.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write93.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write95.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write95.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write97.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write97.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write99.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/write99.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phantomSniff/HarTTFB.js" afterPath="$PROJECT_DIR$/phantomSniff/HarTTFB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/application_controller.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/resource_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/node/static/performanceTest.html" afterPath="$PROJECT_DIR$/staticFileTransfer/node/static/performanceTest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb" afterPath="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/node/server.js" afterPath="$PROJECT_DIR$/staticFileTransfer/node/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/settings.py" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py" afterPath="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ServerPerformanceMeasurement.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -233,116 +28,131 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="ServerPerformanceMeasurement" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="493">
-              <caret line="19" column="48" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="48" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="performanceTest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="2941">
-              <caret line="77" column="19" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3039106" vertical-offset="0" max-vertical-offset="895">
-              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file_controller.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="459">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file1.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="file0.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file0.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="performanceTest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="2941">
-              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1088">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="123.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/123.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.8888888">
+                  <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="file_controller.rb" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-5.037037">
+                  <caret line="8" column="23" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="resource_controller.rb" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/resource_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.24862888">
+                  <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="performanceTest.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-16.346153">
+                  <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/server.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.59810126">
+                  <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-18.48276">
+                  <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+              <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+                <state />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/node/server.js" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html" />
+        <option value="$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/resource_controller.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1050" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -367,6 +177,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -398,6 +210,150 @@
               <option name="myItemId" value="staticFileTransfer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rubyOnRails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rubyOnRails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rubyOnRails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rubyOnRails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rubyOnRails" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -427,18 +383,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="staticFileTransfer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ServerPerformanceMeasurement" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="phantomSniff" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/staticFileTransfer/node/server.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
@@ -461,42 +438,58 @@
       <recent name="C:\Users\i312934\test\ServerPerformanceMeasurement\staticFileTransfer\static" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Unnamed">
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <method />
-    </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <pass-parent-envs>true</pass-parent-envs>
-      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="staticFileTransfer/node/server.js" working-dir="$PROJECT_DIR$">
@@ -506,9 +499,6 @@
       <ConfigurationWrapper RunnerId="debuggableProgram" />
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
-    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -524,28 +514,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3802817" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18645833" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24047878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24047878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32317737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gerrit" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297062" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -559,384 +551,386 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="req.param('fileName')" language="JavaScript" />
+        <watch expression="req.param('fileName')" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file23.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file24.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
-          <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file25.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file26.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file27.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file28.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file29.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file30.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file31.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file32.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file33.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file34.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file35.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file36.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file37.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file38.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file39.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file40.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file41.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file42.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file43.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file44.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file45.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file46.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file47.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="29" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file48.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file49.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/temp/file49.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="909">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/static/performanceTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56666666" vertical-offset="0" max-vertical-offset="2941">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <caret line="19" column="48" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="595" max-vertical-offset="2941">
-          <caret line="77" column="19" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/file0.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/write1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/newfile.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="909">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13709678" vertical-offset="0" max-vertical-offset="868">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file5.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/temp/123.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+        <state vertical-scroll-proportion="0.0">
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="952">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39737275" vertical-offset="132" max-vertical-offset="1887">
+        <state vertical-scroll-proportion="0.39737275">
           <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/123.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file1.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="672">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/file0.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/temp/123.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/static/performanceTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.653847">
+          <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/static/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/static/performanceTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-23.538462">
+          <caret line="151" column="5" selection-start-line="117" selection-start-column="1" selection-end-line="151" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1088">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="850" max-vertical-offset="2941">
-          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+        <state vertical-scroll-proportion="-1.8888888">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/file_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="459">
-          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state vertical-scroll-proportion="-5.037037">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12809473">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/python/testServer/testServer/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.48276">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/staticFileTransfer/node/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3039106" vertical-offset="0" max-vertical-offset="895">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.59810126">
+          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/public/performanceTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticFileTransfer/rubyOnRails/app/controllers/resource_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24862888">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           <folding />
         </state>
       </provider>

@@ -27,6 +27,37 @@ app.use('/file/', function (req, res) {
   }
 });
 
+app.use('/resource/', function (req, res) {
+  function concatBigString() {
+    var strArr = [],
+        str = "";
+
+    for (var i = 1; i <= 20; i++) {
+      for (var j = 1; j <= 256; j++) {
+        strArr.push(String.fromCharCode(j));
+        console.log("");
+      }
+      str += strArr.join("");
+    }
+
+    return str;
+  }
+
+  function generateObject() {
+    var obj = {};
+
+    for (var i = 0; i < 5; i++) {
+      obj["prop" + i] = {
+        prop: concatBigString()
+      };
+    }
+
+    return obj;
+  }
+
+  res.json(generateObject());
+});
+
 app.listen(port, function () {
   console.log('Listening on port', port);
 });

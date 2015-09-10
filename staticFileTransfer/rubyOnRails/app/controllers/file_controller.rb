@@ -1,14 +1,9 @@
 class FileController < ActionController::Base
 
   def fileAction
-    # @tasks = Task.all
     fileName = params[:fileName]
     method = params[:method]
     dataToWrite = params[:dataToWrite]
-    puts("LOGGINGGGG")
-    puts(fileName)
-    puts(method)
-    puts(dataToWrite)
 
     if method == "read"
       render inline: "" # File.read("temp/" + fileName)
