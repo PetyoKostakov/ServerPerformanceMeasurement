@@ -2,25 +2,25 @@
 <html>
 <head lang="en">
     <meta charset="UTF-8">
-    <title>ManyFilesLowLoad</title>
+    <title>Python performance test</title>
 
 
 </head>
 <body>
-    <h1>Many Files Low Load Test</h1>
+    <h1>Python/Django performance test</h1>
     <input id="urlInput" type="text" placeholder="Enter url" value="http://localhost:3000/"/>
     <br/><br/>
-    <button onclick="startLowLoadTests()">Start low load test</button>
-    <button onclick="startHighLoadTest()">Start high load test</button>
+    <button onclick="startLowLoadTests()">Start static files low load test</button>
+    <button onclick="startHighLoadTest()">Start static files high load test</button>
     <br/><br/>
     <button onclick="startReadWriteLowLoadTest()">Start read/write low load test</button>
     <button onclick="startReadWriteHighLoadTest()">Start read/write high load test</button>
     <br/><br/>
-    <button onclick="startGenerateResourceLowLoadTest()">Start read/write low load test</button>
-    <button onclick="startGenerateResourceHighLoadTest()">Start read/write high load test</button>
+    <button onclick="startGenerateResourceLowLoadTest()">Start resource low load test</button>
+    <button onclick="startGenerateResourceHighLoadTest()">Start resource high load test</button>
 <script src="/static/jquery.min.js"></script>
 <script>
-    var filesList = ["index.html", "bootstrap.css", "bootstrap-theme.css", "jquery.js", "jquery.min.js", "performanceTest.html"];
+    var filesList = ["index.html", "bootstrap.css", "bootstrap-theme.css", "jquery.js", "jquery.min.js", "performanceTest.html", "logo.svg", "nodejs-interactive-portland2015.jpg", "platform-icon-win.png"];
     var testsCount;
 
     // execute single test
